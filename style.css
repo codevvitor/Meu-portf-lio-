@@ -97,6 +97,13 @@ h2 {
     transition: 0.3s;
 }
 
+/* card como link */
+.card {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+}
+
 .card:hover {
     border-color: #58a6ff;
 }
